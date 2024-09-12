@@ -1,52 +1,59 @@
-# Genshin-Glyphs
+# HoYo Glyphs
 
-![Font Specimen](specimen.png)
+![Image to Font Specimen](specimen.png)
 
 🌎 English | **[简体中文](README.md)**
 
 ## Intro
 
-This repository contains the fonts of the constructed writing system
-in the video game *Genshin Impact*. 
+This repository contains the fonts of the constructed writing systems
+in the video games developed by Hoyoverse. These fonts are
+**not obtained from any forms of reverse engineering to the games**. 
 
-## WARNING
+If you want to track the updates on this repository, please click the eye icon `watch` above.
 
-**NOT FOR COMMERCIAL USE, OR USE IT AT YOUR OWN RISK!**
+## [Download](download_en.md)
 
-## What do We Have yet?
+Please be aware that I'll move all the fonts published in the future
+into Release. So please find what you need in Release's folder.
 
-All the writing systems appear in the game are in the list below.
-For those with a tick, it means the font of this writing system has been made,
-which can be found in this repository. 
+Also, I'll gradually move all the existing fonts into Release.
 
-- [ ] Mondstadt Script (Common)
+## Update Log & Known Issues
+
+Please go to Wiki.
+
+## Included Writing Systems
+
+All the writing systems that appeared in the game are listed below.
+A tick means the font of this writing system is ready to use from this repository.
+
+### Genshin Impact
+
+- [X] Teyvat Script (Mondstadt)
 - [X] Inazuma Script
-- [X] Khænri'ah Script
+- [X] Khaenri'ah Script
+- [X] Khaenri'ah Script - The Chasm's Variant
+- [X] Sumeru Script
+- [X] Deshret Script
 
-### What Should we Ignore?
+### Honkai - Star Rail
 
-- Ishine Script (Inazuma)
-- Liyue Script
+- [X] Star Rail Script
+- [ ] Star Rail Script (VARIABLE FONT!!!)
+- [X] Luofu Script
 
-## Problems with Render?
+### Zenless Zone Zero
 
-If these fonts are rendered improperly in your apps,
-please goto Issue above, thank you.
+- [X] ZZZ Script - Variant A (temporary name)
+- [X] ZZZ Script - Variant B (temporary name)
 
-## Known Issues
+### Writing Systems that We Won't Add
 
-### Inazuma Neue `v0.1.0`
+- Ishine Script (Genshin Impact - Inazuma - Tsurumi)
+- Liyue Script (Genshin Impact - Liyue)
 
-Some letters are from the fuzzy screenshots, so it may differ from
-the one you see in the game. These letters are:
+## Have Rendering Issues?
 
-```
-A B C D F J T W Y Z
-```
-
-Some letters are not yet implemented. These letters are:
-
-```
-L P Q V X
-```
-
+If you have issues with rendering, please report on
+[the Issue page](https://github.com/SpeedyOrc-C/Hoyo-Glyphs/issues).
